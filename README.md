@@ -6,8 +6,7 @@ A cellular automaton consists of a regular grid of cells, each in one of a finit
 In this project CA maze solver implemented using hardware description language(VHDL) and ModelSim simulator
 
 
-Best Regards,</br>
-M.Amin
+
 
 
 ![maze](https://rejbrand.se/rejbrand/pix/visualization/mazectric.png)
